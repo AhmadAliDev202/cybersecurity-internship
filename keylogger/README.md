@@ -1,6 +1,3 @@
-Here's a clean, GitHub-ready README version with proper Markdown formatting — no visible `#` or `*` artifacts when rendered:
-
-```markdown
 # Task 2 - Basic Keylogger (Arch Technology Cybersecurity)
 
 ## Overview

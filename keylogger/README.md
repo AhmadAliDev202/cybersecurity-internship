@@ -24,15 +24,15 @@ All logs are stored locally in `keylog.txt`.
 
 1. Install dependencies:
 
-   ```bash
-   python -m pip install -r requirements.txt
+```bash
+python -m pip install -r requirements.txt
 ````
 
 2. Run the script:
 
-   ```bash
-   python keylogger.py
-   ```
+```bash
+python keylogger.py
+```
 
 3. Start typing on your keyboard to generate logs.
 

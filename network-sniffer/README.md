@@ -27,7 +27,7 @@ Logs are saved to `sniffer_log.txt`.
 
    ```bash
    python -m pip install -r requirements.txt
-````
+`
 
 2. **Run as Administrator**
    Open terminal as admin and run:

@@ -61,5 +61,3 @@ It must only be used in a controlled and authorized environment.
 
 ```
 
-This version is clean, properly formatted, and professional for GitHub.
-```

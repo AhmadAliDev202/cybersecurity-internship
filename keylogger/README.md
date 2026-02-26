@@ -35,5 +35,3 @@ Logs are stored locally in `keylog.txt`.
 This project is for **educational and security awareness purposes only**.  
 It should be used **strictly in a controlled and authorized environment**.
 
-**This is Task 2 submission for Arch Technology Cybersecurity Internship.**
-```

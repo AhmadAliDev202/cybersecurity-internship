@@ -1,17 +1,16 @@
-Got it. Here’s a **ready-to-copy-paste README** with Task 2 clearly labeled for Arch Technology Cybersecurity:
-
 ````markdown
-# Task 2 - Basic Keylogger (Arch Technology Cybersecurity)
+# Task 2 - Basic Keylogger  
+**Arch Technology Cybersecurity Internship**
 
 ## Overview
-This project simulates a basic keylogger in a controlled environment to understand how keystroke logging works.
+This project simulates a basic keylogger in a controlled environment to demonstrate how keystroke logging works.
 
 It captures:
 - User keystrokes
 - Special keys (Enter, Shift, etc.)
 - Timestamp of each key press
 
-Logs are stored locally in `keylog.txt`.
+All logs are stored locally in `keylog.txt`.
 
 ---
 
@@ -24,6 +23,7 @@ Logs are stored locally in `keylog.txt`.
 ## How to Run
 
 1. Install dependencies:
+
    ```bash
    python -m pip install -r requirements.txt
 ````
@@ -34,20 +34,32 @@ Logs are stored locally in `keylog.txt`.
    python keylogger.py
    ```
 
-3. Type on your keyboard to generate logs.
+3. Start typing on your keyboard to generate logs.
 
 4. Press `ESC` to stop the program.
 
 ---
 
-## Important Note
+## Output
 
-This project is for educational and security awareness purposes only.
-It should be used strictly in a controlled and authorized environment.
+Captured keystrokes are saved in:
 
-**This is Task 2 submission for Arch Technology Cybersecurity Internship.**
+```
+keylog.txt
+```
+
+---
+
+## Disclaimer
+
+This project is developed strictly for educational and cybersecurity awareness purposes.
+It must only be used in a controlled and authorized environment.
+
+---
+
+**Submission:** Task 2 – Arch Technology Cybersecurity Internship
 
 ```
 
-This clearly marks it as **Task 2 for Arch Technology Cybersecurity** while keeping everything clean and professional.
+This version is clean, properly formatted, and professional for GitHub.
 ```

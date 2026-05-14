@@ -26,3 +26,23 @@ This repository contains two educational cybersecurity projects developed for th
 2. Install dependencies:
    ```bash
    python -m pip install -r requirements.txt
+3. **Run as Administrator**
+   Open terminal as admin and run:
+
+   ```bash
+   python sniffer.py
+   ```
+
+4. **Generate network traffic**
+   Open browser, ping a site, or do any internet activity.
+
+5. **Stop the sniffer**
+   The sniffer runs continuously until you stop it. Press:
+
+   ```
+   Ctrl + C
+   ```
+
+   in the terminal to stop the program.
+
+---
